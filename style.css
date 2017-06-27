@@ -1,0 +1,27 @@
+h1, h2, h3, h4, h5, h6, p, a {
+	font-family: Arial, serif;
+	font-style: normal;
+    	font-weight: normal;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	position: fixed;
+	top: 0;
+	padding: 1em 2em;
+	background: white;
+}
+
+header ul {
+	padding-left: 0;
+}
+
+header ul li {
+	display: table-row;
+}
+
+
